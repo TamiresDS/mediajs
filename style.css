@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+body{
+    justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tudo{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  
+   }
+
+.h1{
+    font-family: 'Kanit', sans-serif; 
+    align-items: center;
+  justify-content: center;
+   
+}
+ .nota{
+  font-family: 'Roboto Condensed', sans-serif;
+ }
+
+.button{
+  background-color: rgb(101, 212, 212);
+    width: 50%;
+    height: 10%;
+    font-size: 16px;
+    border-radius: 10px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+ 
+
+
+
